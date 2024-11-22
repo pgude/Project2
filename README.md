@@ -1,6 +1,5 @@
 # Project 2
 
-Select one of the following two options:
 
 ## Boosting Trees
 
