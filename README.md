@@ -1,6 +1,4 @@
-# Project 2
-
-Select one of the following two options:
+# hkjhb
 
 ## Boosting Trees
 
